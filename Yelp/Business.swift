@@ -2,10 +2,9 @@
 //  Business.swift
 //  Yelp
 //
-//  Created by Timothy Lee on 4/23/15.
+//  Created by Samuel Raymond on 03/08/18.
 //  Copyright (c) 2015 Timothy Lee. All rights reserved.
 //
-
 import UIKit
 
 class Business: NSObject {
